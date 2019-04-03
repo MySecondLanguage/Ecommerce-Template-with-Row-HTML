@@ -12,7 +12,7 @@
 .col-12 {width: 100%;}
 
 [class*='col-']{
-	border: 1px solid none;
+	border: 1px solid black;
 	float: left;
 	box-sizing: border-box;
 }
@@ -24,7 +24,7 @@
 }
 .slider-height{height: auto;}
 .info-height{height: 150px;}
-.list-height{height: 410px;}
+.list-height{height: 250px;}
 .footer-height{height: 250px;}
 .auto-height{height: auto;}
 
@@ -58,7 +58,7 @@
 }
 
 
-.menu-ul ul {
+ul {
 	list-style-type: none;
 	margin: 0;
 	padding: 0;
@@ -66,7 +66,7 @@
 	background-color: #333;
 }
 
-.menu-ul ul li a {
+ul li a {
 	display: block;
 	color: white;
 	text-align: center;
@@ -75,11 +75,11 @@
 }
 
 
-.menu-ul ul li {
+ul li {
 	float: left;
 }
 
-.menu-ul ul li a:hover {
+ul li a:hover {
 	background-color: #111;
 	border-bottom: 2px solid yellow;
 }
