@@ -1,0 +1,61 @@
+.checkout-height{
+	height: auto;
+}
+
+.billing input[type=text] {
+  width: 90%;
+  margin-bottom: 20px;
+  height: 40px;
+  border: 1px solid #ddd;
+  border-radius: 3px;
+}
+
+
+.checkout input[type=text] {
+  width: 90%;
+  margin-bottom: 20px;
+  height: 40px;
+  border: 1px solid #ddd;
+  border-radius: 3px;
+}
+
+.billing{
+	margin-left: 10%;
+}
+
+.icon-container{
+	font-size: 38px;
+}
+
+.total-link-list{
+	background-color: #333;
+	height: 200px;
+	width: 250px;
+	margin-top: 40px;
+	margin-left: 40px;
+	border-radius: 10px 10px 0px 0px;
+}
+
+.added-link{
+	margin-left: 20px;
+	margin-top: 20px;
+	font-weight: bold;
+	color: white;
+}
+
+.added-link a{
+	color: white;
+}
+
+.added-link button{
+	background-color: #4CAF50;
+	width: auto;
+	height: 40px;
+	border: 1px solid black;
+	border-radius: 5px;
+	font-weight: bold;
+	font-size: 20px;
+	margin-top: 0px;
+	padding-top: 2px;
+}
+
